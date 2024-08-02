@@ -8,7 +8,6 @@
 - 💬 Ask me about linux,git,mongoDB
 - 
 - 🌱 I’m currently learning **react.js,express.js,node.js,mongoDB**
-
 - 
 -📫 How to reach me **vishakhat895@gmail.com**
 
